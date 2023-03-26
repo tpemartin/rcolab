@@ -1,0 +1,5 @@
+Name: Colab Py to Rmd
+Description: New Addin Description
+Binding: addIn_colabPy2Rmd
+Interactive: false
+
